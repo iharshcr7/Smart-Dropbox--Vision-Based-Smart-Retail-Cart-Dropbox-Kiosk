@@ -1,0 +1,8 @@
+Flask==3.0.0
+Werkzeug==3.0.0
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+python-socketio>=5.0.0
+python-engineio>=4.0.0
+aiofiles>=0.8.0
+dropbox>=11.36.0
