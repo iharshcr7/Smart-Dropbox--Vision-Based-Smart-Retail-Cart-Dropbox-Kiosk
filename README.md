@@ -172,3 +172,7 @@ templates/                   # HTML templates for pages
 ## License
 
 This repository includes a license file. Review `LICENSE` for terms.
+
+
+<img width="1915" height="882" alt="image" src="https://github.com/user-attachments/assets/a6ad7855-56b6-43b0-97ab-16e3c7f87130" />
+
